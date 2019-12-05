@@ -1,0 +1,6 @@
+module GooglePlacesAPI {
+  umbrella header "GooglePlacesAPI-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+module MJSnackBar {
+  umbrella header "MJSnackBar-umbrella.h"
+
+  export *
+  module * { export * }
+}

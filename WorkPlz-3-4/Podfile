@@ -1,0 +1,17 @@
+# Uncomment the next line to define a global platform for your project
+ platform :ios, '9.0'
+source 'https://github.com/CocoaPods/Specs.git' 
+target 'WorkPlz' do
+  pod 'GoogleMaps'
+  pod 'GooglePlaces' 
+  pod 'SwiftyJSON'
+  pod 'Alamofire', '~> 4.4'
+  pod 'GooglePlacesAPI'
+  pod 'MJSnackBar', :git =>"https://github.com/Shakarang/MJSnackBar"
+  pod 'Firebase/Analytics'
+  pod 'Firebase/Storage'
+  pod 'Firebase/Database'
+  pod 'Firebase/Core'
+  pod 'Firebase/Auth'
+  pod 'Firebase/Firestore'
+end

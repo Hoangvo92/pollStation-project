@@ -1,0 +1,6 @@
+module Pods_WorkPlz {
+  umbrella header "Pods-WorkPlz-umbrella.h"
+
+  export *
+  module * { export * }
+}
